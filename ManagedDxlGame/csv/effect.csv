@@ -1,0 +1,16 @@
+effecttype,damageRate,healRate,allnum,xnum,ynum,xsize,ysize,actSpeed,SkillType(string),Skill_Name,gh_handle(string),skill_icon
+4,2,1,5,5,1,120,120,2,attack,NomalAttack,using_graphics/effect/nomalattack.png,using_graphics/icon/
+4,2,2,8,8,1,120,120,3,attack,Recovery,using_graphics/effect/recovery.png,using_graphics/icon/
+1,5,3,7,7,1,120,120,4,attack,BrackMagic,using_graphics/effect/BrackMagic.png,using_graphics/icon/
+0,3,4,5,5,1,120,120,3,attack,SordAttack,using_graphics/effect/sordattack.png,using_graphics/icon/
+0,3,0,10,5,2,120,120,3,attack,Water,using_graphics/effect/tktk_Water.png,using_graphics/icon/water.png
+0,3,0,8,8,1,120,120,4,attack,Wind,using_graphics/effect/wind.png,using_graphics/icon/wind.png
+0,2,0,8,8,1,120,120,4,attack,Rock,using_graphics/effect/rock.png,using_graphics/icon/rock.png
+0,4,0,7,7,1,120,120,4,attack,Fire,using_graphics/effect/fire.png,using_graphics/icon/fire.png
+0,6,0,10,5,2,120,120,5,attack,Thunder,using_graphics/effect/thunder.png,using_graphics/icon/thunder.png
+3,2,3,10,10,1,120,120,5,attack,Buff,using_graphics/effect/buff.png,NODATA
+3,0,2,10,10,1,120,120,5,attack,Debuff,using_graphics/effect/debuff.png,NODATA
+3,0,1,12,3,4,120,120,6,attack,Drop,using_graphics/effect/dropitem.png,NODATA
+3,0,2,10,10,2,120,120,5,attack,Level,using_graphics/effect/level_up.png,NODATA
+3,0,0,0,0,0,0,0,0,etc.,NODATA,using_graphics/effect/,NODATA
+3,0,0,0,0,0,0,0,0,etc.,NODATA,using_graphics/effect/,NODATA

@@ -1,0 +1,7 @@
+hp(int),mp(int),attack(int),defence(int),charaneme(string),graphicpath(string),exp(int),lv(Level)(int)
+200,100,15,10,Yusya,using_graphics/yusya.png,0,1
+150,5,10,5,Skeleton,using_graphics/skeleton.png,30,1
+200,15,15,10,PoisonSkeleton,using_graphics/pinkskeleton.png,50,1
+250,25,25,15,BrackSkeleton,using_graphics/brackskeleton.png,70,1
+180,45,20,15,Magician,using_graphics/magician.png,40,1
+210,20,15,15,King,using_graphics/king.png,30,1

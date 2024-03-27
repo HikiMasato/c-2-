@@ -1,0 +1,13 @@
+name,pass
+forest_floor,testgraphics/forest_floor.png
+forest_wall,testgraphics/forest_Wall.png
+forest_wall_top,testgraphics/forest_Wall_top.png
+forest_wall_bottom,testgraphics/forest_Wall_bottom.png
+forest_wall_left,testgraphics/forest_Wall_leftside.png
+forest_wall_right,testgraphics/forest_Wall_rightside.png
+tower_floor,testgraphics/floor.png
+tower_wall,testgraphics/Wall.png
+tower_wall_top,testgraphics/Wall_top.png
+tower_wall_bottom,testgraphics/Wall_bottom.png
+tower_wall_left,testgraphics/Wall_leftside.png
+tower_wall_right,testgraphics/Wall_rightside.png

@@ -1,0 +1,9 @@
+"ステータス上昇量(回復量、攻撃力プラス値、防御力プラス値,売値)",name(string),item(string),description,price
+10,リンゴ,using_graphics/item/apple.png,体力を回復する,25
+15,薬草,using_graphics/item/medicinal_plants.png,体力を大きく回復する,50
+3,防御力,using_graphics/item/defence.png,自身の防御力を上昇させる,50
+1000,ダイアモンド,using_graphics/item/diamond.png,とても神々しい宝石,1000
+100,Gold,using_graphics/item/gold.png,通貨(アイテムの購入などに使える),100
+0,ドロップアイテム,using_graphics/item/drop_item.png,ランダムにアイテムを入手することができる,50
+5,ポーション,using_graphics/item/potion.png,すべてのステータスを一定時間上昇させることができる,35
+3,攻撃力,using_graphics/item/attack.png,自身の攻撃力を上昇させる,40
